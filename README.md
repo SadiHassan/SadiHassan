@@ -4,8 +4,8 @@
  
 <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=6657519&period=all_times" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=6657519&period=all_times&image_size=auto&color_scheme=dark" width="500" height="auto">
-    <img alt="Contribution Time Distribution of @SadiHassan" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=6657519&period=all_times&image_size=auto&color_scheme=light" width="500" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=6657519&period=all_times&image_size=auto&color_scheme=dark" width="auto" height="auto">
+    <img alt="Contribution Time Distribution of @SadiHassan" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=6657519&period=all_times&image_size=auto&color_scheme=light" width="auto" height="auto">
   </picture>
 </a>
 
